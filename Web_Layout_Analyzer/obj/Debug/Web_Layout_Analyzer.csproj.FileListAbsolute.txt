@@ -1,0 +1,11 @@
+C:\Users\User\Documents\WWJ Software Solution\Projects\Selenium_Program\Selenium_Program\bin\Debug\Web_Layout_Analyzer.exe.config
+C:\Users\User\Documents\WWJ Software Solution\Projects\Selenium_Program\Selenium_Program\bin\Debug\Web_Layout_Analyzer.exe
+C:\Users\User\Documents\WWJ Software Solution\Projects\Selenium_Program\Selenium_Program\bin\Debug\Web_Layout_Analyzer.pdb
+C:\Users\User\Documents\WWJ Software Solution\Projects\Selenium_Program\Selenium_Program\obj\Debug\Web_Layout_Analyzer.Form1.resources
+C:\Users\User\Documents\WWJ Software Solution\Projects\Selenium_Program\Selenium_Program\obj\Debug\Web_Layout_Analyzer.Properties.Resources.resources
+C:\Users\User\Documents\WWJ Software Solution\Projects\Selenium_Program\Selenium_Program\obj\Debug\Web_Layout_Analyzer.csproj.GenerateResource.Cache
+C:\Users\User\Documents\WWJ Software Solution\Projects\Selenium_Program\Selenium_Program\obj\Debug\Web_Layout_Analyzer.exe
+C:\Users\User\Documents\WWJ Software Solution\Projects\Selenium_Program\Selenium_Program\obj\Debug\Web_Layout_Analyzer.pdb
+C:\Users\User\Documents\WWJ Software Solution\GitHub_Projects\Web_Layout_Analyzer\Web_Layout_Analyzer\bin\Debug\Web_Layout_Analyzer.exe.config
+C:\Users\User\Documents\WWJ Software Solution\GitHub_Projects\Web_Layout_Analyzer\Web_Layout_Analyzer\obj\Debug\Web_Layout_Analyzer.exe
+C:\Users\User\Documents\WWJ Software Solution\GitHub_Projects\Web_Layout_Analyzer\Web_Layout_Analyzer\obj\Debug\Web_Layout_Analyzer.pdb
